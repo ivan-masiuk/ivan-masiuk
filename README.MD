@@ -54,5 +54,5 @@
 
 ## Social
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ivan_masiuk/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2CA52f0?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/masiuk_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0101DF?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/masiuk_)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/masiuk_/)
