@@ -9,6 +9,7 @@
 ![Python](https://img.shields.io/badge/python-0174DF?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ![Django](https://img.shields.io/badge/django-088A08?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-088A85?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PyTest](https://img.shields.io/badge/pytest-01A9DB?style=for-the-badge&logo=pytest&logoColor=white)
 ![Selenium](https://img.shields.io/badge/selenium-3ADF00?style=for-the-badge&logo=selenium&logoColor=white)
 ![TelegramBot](https://img.shields.io/badge/Telegram%20Bots-2E9AFE?style=for-the-badge&logo=Telegram&logoColor=white)
@@ -23,6 +24,7 @@
 ![GitHub](https://img.shields.io/badge/github-585858?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-DF7401?style=for-the-badge&logo=gitlab&logoColor=white)
 ![BitBucket](https://img.shields.io/badge/bitbucket-0080FF?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0080FF?style=for-the-badge&logo=docker&logoColor=white)
 
 ![Jira](https://img.shields.io/badge/Jira-0080FF?style=for-the-badge&logo=Jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0080FF?style=for-the-badge&logo=Trello&logoColor=white)
